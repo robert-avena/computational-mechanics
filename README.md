@@ -1,3 +1,6 @@
+Robert Avena's Comp Mech repository copy
+
+
 # Computational Mechanics
 > __Note__: This Open Educational Resource was built with
 [Jupyter-Book](https://jupyterbook.org) __Check it out -->__ [![Jupyter Book
